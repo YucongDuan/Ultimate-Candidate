@@ -1,8 +1,10 @@
 # DIKWP-ONE 6.0 Ultimate Candidate - Delivery Map
 
+Created by Yucong Duan (段玉聪).
+
 ## System position
 
-This is an integrated artificial-consciousness **ultimate candidate**, not a certificate of phenomenal consciousness. Semantic content is strictly limited to D / I / K / W / P. Repository outputs, model self-reports and prior certificates enter the runtime only as D and must be re-tested.
+This is an integrated artificial-consciousness ultimate candidate, not a certificate of phenomenal consciousness. Semantic content is strictly limited to D / I / K / W / P. Repository outputs, model self-reports and prior certificates enter the runtime only as D and must be re-tested.
 
 ## Files
 
